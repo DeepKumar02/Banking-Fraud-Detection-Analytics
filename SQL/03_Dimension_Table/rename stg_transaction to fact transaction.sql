@@ -1,1 +1,0 @@
-EXEC sp_rename 'stg_transactions', 'fact_transactions';
